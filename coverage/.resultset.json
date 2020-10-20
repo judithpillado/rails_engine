@@ -1,14 +1,20 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/judithpillado/mod3/projects/rails_engine/app/models/customer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/judithpillado/mod3/projects/rails_engine/app/models/application_record.rb": {
         "lines": [
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
+          1,
+          1,
+          null
+        ]
       },
       "/Users/judithpillado/mod3/projects/rails_engine/app/controllers/application_controller.rb": {
         "lines": [
@@ -19,6 +25,6 @@
         }
       }
     },
-    "timestamp": 1603168003
+    "timestamp": 1603234223
   }
 }
