@@ -10,6 +10,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'faraday'
 gem 'figaro'
 gem 'bcrypt'
+gem 'fast_jsonapi'
 
 group :development, :test do
   gem 'pry'
