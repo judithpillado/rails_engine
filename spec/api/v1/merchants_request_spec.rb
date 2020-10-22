@@ -75,7 +75,7 @@ describe "Merchants API" do
 
 
     expect(response).to be_successful
-    expect(response.body).to be_empty
+    expect(Merchant.count).to eq(0)
     expect{Merchant.find(merchant.id)}.to raise_error(ActiveRecord::RecordNotFound)
   end
 end
